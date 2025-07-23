@@ -5,4 +5,5 @@ This dashboard provides actionable insights on sales performance, customer behav
 
 👉 [click here to view the Sales insight dashboard] 
 
-https://github.com/thegifteedanalyst/POWER-BI-SALES-INSIGHTS/blob/main/SALES%20INSIGHTS.pdf
+(https://github.com/thegifteedanalyst/POWER-BI-SALES-INSIGHTS/raw/main/SALES%20INSIGHTS.pdf)
+
